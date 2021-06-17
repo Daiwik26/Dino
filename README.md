@@ -1,5 +1,6 @@
 # Dino
 #### Simple program to display dino and play some music on a window using, [SFML](https://www.sfml-dev.org/) library
+![Dino](./dino.png?raw=true "Dino")
 
 ## Compilation
 Dino requires [SFML](https://www.sfml-dev.org/) to run.

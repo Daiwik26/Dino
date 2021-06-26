@@ -15,5 +15,10 @@ Compilation:
 g++ dino.cpp -Ofast -o dino -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ```
 
+Execution:
+```sh
+./dino
+```
+
 ## License
 GNU GPLv3
